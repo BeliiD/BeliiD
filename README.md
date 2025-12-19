@@ -1,6 +1,15 @@
 # Hello, I'm Davi Beli 👋
 
 ---
+## 🌟 About Me
+- 🎓 Computer Science student at **IFSP** (5th semester)
+- ☕ Deepening my knowledge in **Java** and exploring **Full-Stack development**
+- 💻 Solid Java foundation
+- 🤝 Open to internship opportunities in Software Development
+- 🧠 Passionate about solving problems efficiently and continuous learning
+- 🌍 I believe technology is the key to positively change the world
+
+---
 
 ## 📈GitHub Stats
 <div align="center">
