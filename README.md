@@ -20,7 +20,7 @@ I am currently a Computer Science undergraduate in my 5th semester at IFSP (Fede
 ## 📈GitHub Stats
 <div align="center">
   <img alt="my stats" src ="https://github-readme-stats.vercel.app/api?username=BeliiD&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" width="420"/>
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliiD&layout=compact&theme=blue_navy&hide_border=true&hide=css,html,makefile,batchfile,c" width="375"/>
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliiD&layout=compact&theme=blue_navy&hide_border=true&hide=css,html,makefile,batchfile,c, powershell, shell" width="375"/>
 </div>
 
 ---
