@@ -32,8 +32,11 @@ I am currently a Computer Science undergraduate in my 5th semester at IFSP (Fede
   ### 💻 Languages  
   [![My Skills](https://skillicons.dev/icons?i=java,c,js)](https://skillicons.dev)  
 
+  ### 🛠️Technologies
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+
   ### 🌐 Tools & Databases  
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mysql,firebase,netlify)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mysql,firebase,anaconda)](https://skillicons.dev)
   
   </div>
 </p>
