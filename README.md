@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Davi Beli!
 
 <p align="left">
-I am currently a Computer Science undergraduate in my 5th semester at IFSP (Federal Institute of São Paulo). I have experience in back-end development, focusing on Java and relational databases like MySQL. I also have a solid foundation in HTML and CSS, giving me a clear understanding of front-end principles.
+I am currently a Computer Science undergraduate in my 6th semester at IFSP (Federal Institute of São Paulo). I have experience in back-end development, focusing on Java and relational databases like MySQL. I also have a solid foundation in HTML and CSS, giving me a clear understanding of front-end principles.
   
  My current goal is to master Spring Boot, React, and Node.js to expand my technical stack. Looking ahead, I am working toward becoming a Full-Stack Developer.
 </p>
